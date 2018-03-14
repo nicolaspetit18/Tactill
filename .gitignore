@@ -2,3 +2,4 @@ Gateway/tactill-gateway/node_modules/
 RabbitMQ/node_modules/
 React client/tactill-client/node_modules/
 websocket-service/node_modules/
+google-places-service/node_modules/
